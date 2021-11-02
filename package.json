@@ -1,0 +1,30 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Consuming COVID-API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: n test pecified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwelisha/HB_clinical.git"
+  },
+  "keywords": [
+    "Rest",
+    "API",
+    "consuming",
+    "Rapid",
+    "Covid",
+    "API"
+  ],
+  "author": "Zweli Mthethwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwelisha/HB_clinical/issues"
+  },
+  "homepage": "https://github.com/zwelisha/HB_clinical#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
